@@ -1,0 +1,23 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "Websockets Node Chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n0tm/NodeChat.git"
+  },
+  "keywords": [
+    "Node",
+    "Chat"
+  ],
+  "author": "n0tm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n0tm/NodeChat/issues"
+  },
+  "homepage": "https://github.com/n0tm/NodeChat#readme"
+}
